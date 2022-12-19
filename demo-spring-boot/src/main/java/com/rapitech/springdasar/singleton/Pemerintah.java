@@ -10,4 +10,5 @@ public class Pemerintah {
     private Pemerintah(){
         System.out.println("object created...");
     }
+    //solve
 }
